@@ -1,7 +1,7 @@
 Hi Im new to this whole coding thing.
 This is my first project that I am publishing.
 
-Its a homework game that allows you to take imag eof your homework and will make multiple choice answers based on what it see.. the current way i am doing this is by taking an image of the hiomework and then using custom gpt to put in a csv file with headers then i import to the app.
+Its a homework game that allows you to take image of your homework and will make multiple choice answers based on what it see.. the current way i am doing this is by taking an image of the hiomework and then using custom gpt to put in a csv file with headers then I import to the app. so if there can be a way to make that one step that would be great 
 
 
 Kids are struggling with homework and I tried this out with My son and he was addicted to it. I think gamifying it and making points system similiar to duolingo will make this app really cool and awesome for kids to learn so its open soource and please anyone who has time that can add to this would be greatly appreciated.
