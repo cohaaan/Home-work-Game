@@ -5,6 +5,8 @@ Its a homework game that allows you to take imag eof your homework and will make
 
 
 Kids are struggling with homework and I tried this out with My son and he was addicted to it. I think gamifying it and making points system similiar to duolingo will make this app really cool and awesome for kids to learn so its open soource and please anyone who has time that can add to this would be greatly appreciated.
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/27dadd45-d9a2-4c58-a3f1-3ec8af0ac1fb">
+
 
 
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
